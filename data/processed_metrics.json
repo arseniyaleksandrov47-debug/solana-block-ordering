@@ -1,0 +1,177 @@
+[
+  {
+    "slot": 461740965,
+    "leader": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+    "client_family": "Fork-FireBAM",
+    "client_version": "26.10.4",
+    "metrics": {
+      "total_txs": 407,
+      "non_vote_txs": 407,
+      "vote_txs": 0,
+      "jito_txs": 24,
+      "spearman_priority_rho": 0.0245,
+      "kendall_priority_tau": 0.0216,
+      "spearman_total_fee_rho": 0.0145,
+      "avg_top_10_pct_position": 0.5673,
+      "avg_jito_position": 240.33,
+      "avg_jito_position_pct": 0.5905,
+      "adjacent_write_conflict_ratio": 0.1946,
+      "quartile_mean_priority_lamports": [
+        2716.03,
+        12392.3,
+        6926.45,
+        11786.1
+      ]
+    }
+  },
+  {
+    "slot": 461740968,
+    "leader": "9W3QTgBhkU4Bwg6cwnDJo6eGZ9BtZafSdu1Lo9JmWws7",
+    "client_family": "Harmonic-Agave",
+    "client_version": "4.3.2",
+    "metrics": {
+      "total_txs": 580,
+      "non_vote_txs": 580,
+      "vote_txs": 0,
+      "jito_txs": 22,
+      "spearman_priority_rho": 0.0529,
+      "kendall_priority_tau": 0.0414,
+      "spearman_total_fee_rho": 0.0474,
+      "avg_top_10_pct_position": 0.4798,
+      "avg_jito_position": 247.23,
+      "avg_jito_position_pct": 0.4263,
+      "adjacent_write_conflict_ratio": 0.1503,
+      "quartile_mean_priority_lamports": [
+        20184.85,
+        10642.01,
+        16278.25,
+        38707.77
+      ]
+    }
+  },
+  {
+    "slot": 461740972,
+    "leader": "6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea",
+    "client_family": "Agave-BAM",
+    "client_version": "4.3.2",
+    "metrics": {
+      "total_txs": 485,
+      "non_vote_txs": 485,
+      "vote_txs": 0,
+      "jito_txs": 14,
+      "spearman_priority_rho": 0.1354,
+      "kendall_priority_tau": 0.1098,
+      "spearman_total_fee_rho": 0.1079,
+      "avg_top_10_pct_position": 0.4104,
+      "avg_jito_position": 252.07,
+      "avg_jito_position_pct": 0.5197,
+      "adjacent_write_conflict_ratio": 0.1529,
+      "quartile_mean_priority_lamports": [
+        13939.49,
+        1369.9,
+        688.93,
+        38024.2
+      ]
+    }
+  },
+  {
+    "slot": 461740976,
+    "leader": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+    "client_family": "Jito-Solana",
+    "client_version": "4.3.2",
+    "metrics": {
+      "total_txs": 417,
+      "non_vote_txs": 417,
+      "vote_txs": 0,
+      "jito_txs": 12,
+      "spearman_priority_rho": 0.0232,
+      "kendall_priority_tau": 0.0198,
+      "spearman_total_fee_rho": 0.0139,
+      "avg_top_10_pct_position": 0.5528,
+      "avg_jito_position": 299.75,
+      "avg_jito_position_pct": 0.7188,
+      "adjacent_write_conflict_ratio": 0.3486,
+      "quartile_mean_priority_lamports": [
+        1289.33,
+        1828.63,
+        14552.63,
+        5930.89
+      ]
+    }
+  },
+  {
+    "slot": 461740980,
+    "leader": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
+    "client_family": "Firedancer",
+    "client_version": "26.10.4",
+    "metrics": {
+      "total_txs": 635,
+      "non_vote_txs": 635,
+      "vote_txs": 0,
+      "jito_txs": 11,
+      "spearman_priority_rho": 0.1137,
+      "kendall_priority_tau": 0.0896,
+      "spearman_total_fee_rho": 0.1214,
+      "avg_top_10_pct_position": 0.4885,
+      "avg_jito_position": 297.09,
+      "avg_jito_position_pct": 0.4679,
+      "adjacent_write_conflict_ratio": 0.3028,
+      "quartile_mean_priority_lamports": [
+        5066.45,
+        3066.59,
+        6586.46,
+        5753.2
+      ]
+    }
+  },
+  {
+    "slot": 461741316,
+    "leader": "11AMA4mnNbsrPQeuoNN7uiZVJZtqEzQHrTfa5vnbcjk",
+    "client_family": "Fork-FireBAM",
+    "client_version": "26.10.4",
+    "metrics": {
+      "total_txs": 601,
+      "non_vote_txs": 601,
+      "vote_txs": 0,
+      "jito_txs": 14,
+      "spearman_priority_rho": 0.0022,
+      "kendall_priority_tau": 0.0125,
+      "spearman_total_fee_rho": -0.0108,
+      "avg_top_10_pct_position": 0.4105,
+      "avg_jito_position": 378.93,
+      "avg_jito_position_pct": 0.6305,
+      "adjacent_write_conflict_ratio": 0.1717,
+      "quartile_mean_priority_lamports": [
+        3072.22,
+        329.43,
+        2730.01,
+        1250.53
+      ]
+    }
+  },
+  {
+    "slot": 461740992,
+    "leader": "3psxMyr7rQzywVp1MXKd1XFmFz33NjydzCoJx9t2sMQW",
+    "client_family": "Harmonic-Agave",
+    "client_version": "4.3.2",
+    "metrics": {
+      "total_txs": 884,
+      "non_vote_txs": 884,
+      "vote_txs": 0,
+      "jito_txs": 12,
+      "spearman_priority_rho": 0.1066,
+      "kendall_priority_tau": 0.0862,
+      "spearman_total_fee_rho": 0.0759,
+      "avg_top_10_pct_position": 0.401,
+      "avg_jito_position": 588.67,
+      "avg_jito_position_pct": 0.6659,
+      "adjacent_write_conflict_ratio": 0.2129,
+      "quartile_mean_priority_lamports": [
+        11930.3,
+        3354.93,
+        3151.34,
+        1904.83
+      ]
+    }
+  }
+]

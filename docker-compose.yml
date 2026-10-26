@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  solana-scheduler-analysis:
+    build: .
+    container_name: solana-scheduler-probe
+    volumes:
+      - ./data:/app/data
+    environment:
+      - SOLANA_RPC_URL=${SOLANA_RPC_URL:-https://api.mainnet-beta.solana.com}
+      - SPEND_CAP_SOL=${SPEND_CAP_SOL:-0.05}
+    command: ["analyze", "--sample-size", "10", "--output-dir", "data"]

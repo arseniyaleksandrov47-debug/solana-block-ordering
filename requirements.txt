@@ -1,0 +1,4 @@
+# Optional dependencies (core tooling runs on pure Python 3.10+ standard library)
+requests>=2.31.0
+numpy>=1.24.0
+scipy>=1.10.0
